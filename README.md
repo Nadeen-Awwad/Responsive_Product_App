@@ -1,16 +1,22 @@
-# first_app
+Responsive Sell Product App
+Overview
+The Responsive Sell Product App is a modern Flutter application designed for selling products online. The app is fully responsive, ensuring a seamless user experience across mobile, tablet, and web platforms.
 
-A new Flutter project.
+https://github.com/user-attachments/assets/54f9e01a-849c-44a7-a918-a067f8c39ca7
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Key Features
+🖥️ Fully Responsive UI
+Adapts dynamically to different screen sizes (mobile, tablet, and desktop).
+Optimized layout for both portrait and landscape orientations.
+Consistent design across all platforms.
+✍️ Form Features
+Fields for User Name, Mobile Number, and Address.
+Validation to ensure all required fields are correctly filled.
+A clean and responsive design for seamless usage across different devices.
+🔗 Google Sheets Integration
+The form data is automatically sent to a Google Spreadsheet using Google Apps Script.
+Ensures real-time updates and easy customer information management.
+Eliminates the need for a backend—data is stored directly in Google Sheets.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
